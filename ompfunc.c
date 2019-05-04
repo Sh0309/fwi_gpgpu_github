@@ -5,7 +5,7 @@
 
 omp_init()
 {
-	
+	/to see chnage in forked version
 	int threads , cthreads;
 	
 	threads = omp_get_max_threads();
